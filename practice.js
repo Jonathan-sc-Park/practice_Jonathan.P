@@ -7,3 +7,5 @@ const parks = [
 
 parks.sort((parkA, parkB) => (parkA.rating > parkB.rating ? 1 : -1));
 console.log(parks);
+
+console.log(parks);
